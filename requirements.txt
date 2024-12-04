@@ -1,0 +1,9 @@
+h5py==3.10.0
+lightning==2.2.1
+numpy==1.23.5
+pandas==2.2.3
+tensorboard==2.16.2
+tonic==1.4.3
+torch==2.4.1
+torchvision==0.19.1
+tqdm==4.66.2
