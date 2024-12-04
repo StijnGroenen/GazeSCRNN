@@ -1,0 +1,1 @@
+GazeSCRNN-Events300-Backprop4 --data_event_count 300 --backprop_timesteps 4

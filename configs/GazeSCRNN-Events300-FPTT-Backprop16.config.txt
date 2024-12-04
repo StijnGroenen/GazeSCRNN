@@ -1,0 +1,1 @@
+GazeSCRNN-Events300-FPTT-Backprop16 --data_event_count 300 --backprop_timesteps 16 --fptt -b 40

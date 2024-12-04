@@ -1,0 +1,1 @@
+GazeSCRNN-Events300-FPTT-Backprop8-TWT20 --data_event_count 300 --backprop_timesteps 8 --fptt --time_window_threshold 20000
