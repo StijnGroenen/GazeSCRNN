@@ -1,6 +1,25 @@
 # GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network
 
+This repository contains the official implementation for [GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network](https://doi.org/10.48550/arXiv.2503.16012).
+
 GazeSCRNN is a spiking convolutional recurrent neural network designed for event-based near-eye gaze tracking. This repository contains the official implementation of the model, training scripts, and evaluation metrics.
+
+## Reference
+
+If you find our paper or this repository helpful, please consider citing:
+
+```bibtex
+@misc{groenen2025gazescrnn,
+      title={GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network},
+      author={Stijn Groenen and Marzieh Hassanshahi Varposhti and Mahyar Shahsavari},
+      year={2025},
+      eprint={2503.16012},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.16012},
+}
+
+```
 
 ## Requirements
 

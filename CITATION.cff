@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network"
+message: "If you use this software, please cite it using the metadata from this file."
+authors:
+    - given-names: Stijn
+      family-names: Groenen
+      affiliation: Radboud University
+      orcid: "https://orcid.org/0009-0003-7042-2954"
+    - given-names: Marzieh
+      family-names: Hassanshahi Varposhti
+      orcid: "https://orcid.org/0009-0005-7958-2051"
+      affiliation: "Donders Institute for Brain, Cognition, and Behaviour"
+    - given-names: Mahyar
+      family-names: Shahsavari
+      affiliation: "Donders Institute for Brain, Cognition, and Behaviour"
+      orcid: "https://orcid.org/0000-0001-7703-6835"
+identifiers:
+    - type: doi
+      value: 10.48550/arXiv.2503.16012
+      description: arXiv
+repository-code: "https://github.com/StijnGroenen/GazeSCRNN"
+license: MIT
+preferred-citation:
+    authors:
+        - given-names: Stijn
+          family-names: Groenen
+          affiliation: Radboud University
+          orcid: "https://orcid.org/0009-0003-7042-2954"
+        - given-names: Marzieh
+          family-names: Hassanshahi Varposhti
+          orcid: "https://orcid.org/0009-0005-7958-2051"
+          affiliation: "Donders Institute for Brain, Cognition, and Behaviour"
+        - given-names: Mahyar
+          family-names: Shahsavari
+          affiliation: "Donders Institute for Brain, Cognition, and Behaviour"
+          orcid: "https://orcid.org/0000-0001-7703-6835"
+    title: "GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network"
+    doi: 10.48550/arXiv.2503.16012
+    type: article
+    journal: "arXiv preprint arXiv:2503.16012"
+    year: 2025
